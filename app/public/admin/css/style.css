@@ -1,0 +1,79 @@
+@import 'https://fonts.googleapis.com/css?family=Lora';
+
+html,
+body {
+	height:100vh;
+	font-family: 'Lora', serif;
+	padding:0;
+	margin:0;
+}
+
+/*.navbar.navbar-toska {
+	background-color:#008080;
+}
+
+.navbar.navbar-toska a {
+	color:#fff;
+}
+
+.navbar.navbar-toska a:hover {
+	background-color:transparent;
+}
+
+.navbar.navbar-toska a:focus {
+	background-color:transparent;
+}
+
+.navbar.navbar-toska .navbar-toggle {
+	background-color:#fff;
+}
+
+.navbar.navbar-toska .navbar-toggle .icon-bar {
+	background-color:#008080;
+}
+
+.dropdown-menu.toska {
+	background-color:#008080;
+}*/
+
+.placeholders {
+  margin-bottom:30px;
+  text-align: center;
+}
+
+.placeholders h4 {
+  margin-bottom: 0;
+}
+
+.placeholder {
+  margin-bottom: 20px;
+}
+
+.placeholder a {
+	text-decoration:none;
+	color:#000;
+}
+
+.panel-page {
+	background-color:#f2f2f2;
+	padding:10px;
+}
+
+.panel-search {
+	padding:10px;
+	margin-bottom:15px;
+}
+
+.action-page {
+	background-color:#f2f2f2;
+	padding:10px;
+}
+
+.action-page-content {
+	margin-right:5px;
+	float:left;
+}
+
+.clear-both {
+	clear:both;
+}
